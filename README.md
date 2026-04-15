@@ -7,22 +7,22 @@ Hands-on IT help desk lab using:
 
 ---
 
-## 🎫 Ticket: Account Lockout
+## Ticket: Account Lockout
 
-### 🧩 Problem
+### Problem
 User unable to log in after multiple failed login attempts.  
 System displays account lockout message.
 
 ---
 
-### 🔍 Investigation
+### Investigation
 - Observed login error on client machine  
 - Confirmed account was locked out  
 - Located user in Active Directory  
 
 ---
 
-### 🛠 Resolution
+### Resolution
 - Opened Active Directory Users and Computers  
 - Found affected user  
 - Unlocked account  
@@ -31,7 +31,7 @@ System displays account lockout message.
 
 ---
 
-### ✅ Verification
+### Verification
 - User prompted to change password  
 - Successfully logged in  
 - Issue fully resolved  
@@ -40,27 +40,27 @@ System displays account lockout message.
 
 ## 📸 Screenshots
 
-### 🔹 Account Lockout
+### Account Lockout
 ![Lockout](screenshots/account-lockout-message.png)
 
-### 🔹 Locate User in Active Directory
+### Locate User in Active Directory
 ![Find User](screenshots/find-user.png)
 
-### 🔹 Unlock Account
+### Unlock Account
 ![Unlock](screenshots/unlock-account.png)
 
-### 🔹 Reset Password
+### Reset Password
 ![Reset](screenshots/password-reset.png)
 
-### 🔹 Password Change Prompt
+### Password Change Prompt
 ![Password Change](screenshots/password-change-prompt.png)
 
-### 🔹 Successful Login
+### Successful Login
 ![Login Success](screenshots/login-success.png)
 
 ---
 
-## 💪 Skills Demonstrated
+## Skills Demonstrated
 - Active Directory user management  
 - Account lockout troubleshooting  
 - Password reset procedures  
