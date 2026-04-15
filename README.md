@@ -47,8 +47,12 @@ Verified the correct user account from search results.
 
 ---
 
-### Step 5: Open User Properties
-Opened the user account properties to inspect account status.
+### Step 5: Open User Properties and Review Account Status
+Opened the user account properties in Active Directory and navigated to the **Account** tab.
+
+Observed that the option **"Unlock account"** was available, and the message indicated the account was currently locked out on the domain controller.
+
+Checked the **"Unlock account"** box to remove the lockout state.
 
 ![User Properties](screenshots/05-go-to-user-account-and-unlock-account.png)
 
