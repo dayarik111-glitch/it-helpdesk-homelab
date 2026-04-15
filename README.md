@@ -83,14 +83,14 @@ Confirmed password reset was successful, and the account is accessible.
 ---
 
 ### Step 9: User Login Attempt
-User attempts to log in with updated credentials.
+User was prompted to change password, confirming policy enforcement. User attempts to log in with updated credentials.
 
 ![Login Attempt](screenshots/09-user-login.png)
 
 ---
 
 ### Step 10: Successful Login
-User successfully logs in and regains access.
+User successfully authenticated with the new credentials and regained access to the system.
 
 ![Successful Login](screenshots/10-successful-login.png)
 
@@ -119,5 +119,6 @@ Confirmed resolution with the user and closed the ticket.
 
 ## Resolution Summary
 User account was locked due to multiple failed login attempts.  
-Account was accessed through Active Directory, password was reset, and the user successfully regained access.  
-The ticket was updated and closed after confirmation.
+Account was accessed through Active Directory, unlocked, password was reset, and the user successfully regained access. 
+User successfully regained access and was prompted to change password.
+Ticket was updated and closed after confirming resolution.
