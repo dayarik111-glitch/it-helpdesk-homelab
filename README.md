@@ -1,5 +1,7 @@
 # IT Help Desk Home Lab
 
+## Ticket 1: User Unable to Log In (Account Lockout)
+
 ## Overview
 The workflow follows standard help desk practices including ticket creation, investigation, resolution, and closure.
 
