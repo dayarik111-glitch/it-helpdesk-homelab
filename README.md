@@ -17,7 +17,6 @@ This project demonstrates troubleshooting and resolving a user account lockout, 
 
 ### User Report
 User reports being unable to log in after multiple failed attempts.
-
 System displays an account lockout message preventing access.
 
 ---
