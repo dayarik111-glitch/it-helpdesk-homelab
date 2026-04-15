@@ -69,7 +69,7 @@ After unlocking the account, a password reset was initiated in Active Directory 
 ---
 
 ### Step 7: Set New Password
-Entered and confirmed a new password in accordance with domain password policy requirements.
+Entered and confirmed a new password in accordance with domain password policy requirements. Ensure the box was checked to prompt the user to change the password on the next logon.
 
 ![Enter Password](screenshots/07-change-user-password.png)
 
