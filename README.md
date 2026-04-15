@@ -1,8 +1,6 @@
 # IT Help Desk Home Lab
 
-## Ticket 1: User Unable to Log In (Account Lockout)
-
-## Overview
+## Environment
 The workflow follows standard help desk practices including ticket creation, investigation, resolution, and closure.
 
 This project simulates a real-world IT help desk environment using:
@@ -15,7 +13,7 @@ This project demonstrates troubleshooting and resolving a user account lockout, 
 
 ---
 
-## Ticket: User Unable to Log In (Account Lockout)
+## Ticket 1: User Unable to Log In (Account Lockout)
 
 ### User Report
 User reports inability to log in after multiple failed attempts.
