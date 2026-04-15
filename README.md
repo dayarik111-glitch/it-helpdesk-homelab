@@ -7,7 +7,7 @@ This project simulates a real-world IT help desk environment using:
 - Windows 11 client machine
 - Spiceworks Help Desk
 
-This ticket demonstrates troubleshooting and resolving a user account lockout and a password reset.
+This project demonstrates troubleshooting and resolving a user account lockout, including account unlock and password reset procedures using Active Directory.
 
 ---
 
