@@ -51,25 +51,25 @@ Verified the correct user account from the search results.
 ---
 
 ### Step 5: Open User Properties and Review Account Status
-Opened the user account properties in Active Directory and navigated to the **Account** tab.
+Opened the user account properties in Active Directory and navigated to the Account tab.
 
-Observed that the option **"Unlock account"** was available, and the message indicated the account was currently locked out on the domain controller.
+Observed that the option "Unlock account" was available, and the message indicated the account was currently locked out on the domain controller.
 
-Checked the **"Unlock account"** box to remove the lockout state.
+Checked the "Unlock account" box to remove the lockout state.
 
 ![User Properties](screenshots/05-go-to-user-account-and-unlock-account.png)
 
 ---
 
 ### Step 6: Initiate Password Reset
-After unlocking the account, initiated a password reset from Active Directory to ensure the user could securely regain access.
+After unlocking the account, a password reset was initiated in Active Directory to ensure the user could securely regain access.
 
 ![Reset Password Window](screenshots/06-reset-password-window.png)
 
 ---
 
 ### Step 7: Set New Password
-Entered and confirmed a new password for the user.
+Entered and confirmed a new password in accordance with domain password policy requirements.
 
 ![Enter Password](screenshots/07-change-user-password.png)
 
