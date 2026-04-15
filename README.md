@@ -41,7 +41,7 @@ Used the search function to locate the affected account.
 ---
 
 ### Step 4: Confirm User Account
-Verified the correct user account from search results.
+Verified the correct user account from the search results.
 
 ![User Search Result](screenshots/04-user-search-result.png)
 
@@ -58,8 +58,8 @@ Checked the **"Unlock account"** box to remove the lockout state.
 
 ---
 
-### Step 6: Reset Password
-Initiated password reset from Active Directory.
+### Step 6: Initiate Password Reset
+After unlocking the account, initiated a password reset from Active Directory to ensure the user could securely regain access.
 
 ![Reset Password Window](screenshots/06-reset-password-window.png)
 
@@ -73,7 +73,7 @@ Entered and confirmed a new password for the user.
 ---
 
 ### Step 8: Confirm Password Reset
-Confirmed password reset was successful and account is accessible.
+Confirmed password reset was successful, and the account is accessible.
 
 ![Confirm Reset](screenshots/08-confirm-password.png)
 
