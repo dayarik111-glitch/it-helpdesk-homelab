@@ -1,6 +1,8 @@
 # IT Help Desk Home Lab
 
 ## Overview
+The workflow follows standard help desk practices including ticket creation, investigation, resolution, and closure.
+
 This project simulates a real-world IT help desk environment using:
 
 - Windows Server 2022 (Active Directory)
