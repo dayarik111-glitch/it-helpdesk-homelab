@@ -16,8 +16,10 @@ This project demonstrates troubleshooting and resolving a user account lockout, 
 ## Ticket: User Unable to Log In (Account Lockout)
 
 ### User Report
-User reports being unable to log in after multiple failed attempts.  
+User reports being unable to log in after multiple failed attempts.
+
 System displays an account lockout message preventing access.
+
 ---
 
 ### Step 1: Verify Issue on Client Machine
